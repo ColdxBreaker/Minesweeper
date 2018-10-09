@@ -11,3 +11,4 @@ JavaFX Minesweeper Grade 12 Project
 # Game Play
 Click on any of the squares to reveal the area.
 Be sure to not click on any of the mines!
+Good Luck! :smiley:
